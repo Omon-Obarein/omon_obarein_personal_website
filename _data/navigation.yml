@@ -10,7 +10,7 @@
 
 main:
   - title: "Publications"
-    url: /Publications/publications.md
+    url: /Publications/publications
 
   - title: "Research Projects"
     url: /portfolio/
