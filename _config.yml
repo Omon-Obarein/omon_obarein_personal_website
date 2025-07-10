@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ortis Yankey"
-description              : &description "I'm Dr. Ortis Yankey, a passionate geospatial modeller and population health researcher, currently serving as a Research" 
+description              : &description "I'm Dr. Ortis Yankey, a passionate geospatial modeller and population health researcher, currently serving as a Research." 
                           
 
 url                      : https://ortisyankey.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -27,7 +27,7 @@ author:
   avatar           : "Profile_Pics.jpeg"
   name             : "Ortis Yankey"
   pronouns         :  "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Geospatial modeller with a research interest in spatial demography, spatial epidemiology and spatial statistics"
   location         : "Southampton, UK"
   employer         : "University of Southampton, UK"
   uri              : "https://www.worldpop.org/team/ortis_yankey/"
