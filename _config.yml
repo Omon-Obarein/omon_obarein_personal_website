@@ -22,31 +22,31 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile_Pics.jpeg"
   name             : "Ortis Yankey"
   pronouns         :  "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Southampton, UK"
   employer         : "University of Southampton, UK"
-  uri              : # URL
+  uri              : "https://www.worldpop.org/team/ortis_yankey/"
   email            : "o.yankey@soton.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=fLa56bkAAAAJ&hl=en&oi=ao"  
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl" 
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ortis-Yankey?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ortisyankey"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
