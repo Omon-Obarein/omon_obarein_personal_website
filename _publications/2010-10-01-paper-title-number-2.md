@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 2"
+title: "Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data"
 collection: publications
-date: "2010-10-01"
-permalink: "/publication/2010-10-01-paper-title-number-2"
-excerpt: This paper is about the number 2. The number 3 is left for future work.
-category: manuscripts
-venue: Journal 1
-slidesurl: http://academicpages.github.io/files/slides2.pdf
-paperurl: http://academicpages.github.io/files/paper2.pdf
-citation: Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>.
-  1(2).
+permalink: /publication/2010-10-01-paper-title-number-2/
+date: 2025-05-20
+excerpt: "This repeated cross-sectional ecological study leverages routine health management information data and geospatial analysis from 2016 to 2022 to assess changes in the accessibility and service coverage of maternal, child, and outpatient healthcare in Ghana’s Volta Region."
+authors: "Dotse-Gborgbortsi, W., Nilsen, K., Yankey, O., Ofosu, A., Ankomah, T., Tweneboah, E., … Wright, J."
+publication: "*Global Health Action*, 18(1)"
+citation: "Dotse-Gborgbortsi, W., Nilsen, K., Yankey, O., Ofosu, A., Ankomah, T., Tweneboah, E., … Wright, J. (2025). Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data. Global Health Action, 18(1). https://doi.org/10.1080/16549716.2025.2513861"
+tags:
+  - Journal
+  - Open Access
+links:
+  - label: "Published"
+    url: "https://www.tandfonline.com/doi/full/10.1080/16549716.2025.2513861"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Recommended citation: {{ page.citation }}
