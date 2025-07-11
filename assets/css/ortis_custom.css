@@ -1,0 +1,11 @@
+.badge {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  margin: 0 0.2em;
+  border-radius: 0.25em;
+  font-size: 0.8em;
+  color: white;
+}
+.open-access { background-color: #28a745; } /* Green */
+.open-source { background-color: #17a2b8; } /* Cyan */
+.preprint { background-color: #6f42c1; } /* Purple */
