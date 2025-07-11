@@ -22,7 +22,6 @@ This paper explores the levee effect, where levee construction may increase floo
 Recommended citation: {{ page.citation }}
 
 **Tags:**  
-- [Open Access](#)  
-- [Open Source](#)  
-- [Preprint](#)
-
+<span style="display:inline-block; padding:0.2em 0.6em; margin:0 0.2em; border-radius:0.25em; background-color:#28a745; color:white;">Open Access</span>  
+<span style="display:inline-block; padding:0.2em 0.6em; margin:0 0.2em; border-radius:0.25em; background-color:#17a2b8; color:white;">Open Source</span>  
+<span style="display:inline-block; padding:0.2em 0.6em; margin:0 0.2em; border-radius:0.25em; background-color:#6f42c1; color:white;">Preprint</span>
