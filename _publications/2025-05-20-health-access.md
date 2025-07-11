@@ -7,8 +7,10 @@ excerpt: 'This repeated cross-sectional ecological study leverages routine healt
 date: 2025-05-20
 venue: 'Global Health Action'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/16549716.2025.2513861'
-citation: 'Dotse-Gborgbortsi, W., Nilsen, K., **Yankey, O.**, Ofosu, A., Ankomah, T., Tweneboah, E., … Wright, J. (2025). Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data. Global Health Action, 18(1). https://doi.org/10.1080/16549716.2025.2513861.'
+citation: 'Dotse-Gborgbortsi, W., Nilsen, K., Yankey, O., Ofosu, A., Ankomah, T., Tweneboah, E., … Wright, J. (2025). Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data. Global Health Action, 18(1). https://doi.org/10.1080/16549716.2025.2513861.'
 ---
+**Recommended Citation**:  
+Dotse-Gborgbortsi, W., Nilsen, K., **Yankey, O.**, Ofosu, A., Ankomah, T., Tweneboah, E., … Wright, J. (2025). *Spatio-temporal patterns of health service delivery...*. *Global Health Action*, 18(1). [https://doi.org/10.1080/16549716.2025.2513861](https://doi.org/10.1080/16549716.2025.2513861)
 **Abstract**
 
 **Background** : To attain universal health care, health managers need to monitor progress in service uptake, changes and geographic coverage. Although routine health management information systems are now well established in many resource-constrained countries, such data have not yet been used to examine geographic access trends over time.
