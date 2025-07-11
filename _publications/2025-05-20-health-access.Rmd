@@ -1,7 +1,7 @@
 ---
 title: "Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data"
 collection: publications
-permalink: /publication/2025-access/
+permalink: /publication/2025-05-20-health-access/
 date: 2025-05-20
 excerpt: "This repeated cross-sectional ecological study leverages routine health management information data and geospatial analysis from 2016 to 2022 to assess changes in the accessibility and service coverage of maternal, child, and outpatient healthcare in Ghana’s Volta Region."
 authors: "Dotse-Gborgbortsi, W., Nilsen, K., Yankey, O., Ofosu, A., Ankomah, T., Tweneboah, E., … Wright, J."
