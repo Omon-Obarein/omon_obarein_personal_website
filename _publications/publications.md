@@ -17,7 +17,10 @@ author_profile: true
 
 Pollack, A. B., Santamaria-Aguilar, S., Maduwanta, P., Helgeson, C., Wahl, T., & Keller, K. (2025).  
 Funding rules that promote equity in climate adaptation outcomes. *Proceedings of the National Academy of Sciences*, 122(2), e2418711121.  
-[https://doi.org/10.1073/pnas.2418711121](https://doi.org/10.1073/pnas.2418711121)
+https://doi.org/10.1073/pnas.2418711121
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://doi.org/10.1073/pnas.2418711121)
+[![Open Source](https://img.shields.io/badge/Open%20Source-gray)](https://doi.org/10.1073/pnas.2418711121)
+[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://doi.org/10.1073/pnas.2418711121)
 
 ---
 
