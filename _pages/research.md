@@ -23,10 +23,10 @@ This project explored inequalities in immunisation coverage by applying Bayesian
 ---
 
 **Estimation of Populations Targeted for Vaccination in Cameroon (Lead Modeller)**  
-Accurate population estimates are essential for planning vaccination campaigns. In this project, I led efforts to combine microcensus data with geospatial information to estimate the number of children eligible for vaccination. These high-resolution estimates are designed to support national immunisation programmes and improve vaccine delivery strategies.  
-*Planned output: 2025*  
+Accurate population estimates are essential for planning vaccination campaigns. In this project, I led efforts to combine microcensus data with geospatial information to estimate the number of children eligible for vaccination. These high-resolution estimates are designed to support national immunisation programmes and improve vaccine delivery strategies.
+Project partners include [GAVI](https://www.gavi.org/), [Bluesquare](https://www.bluesquarehub.com/) and Expanded Program on Immunisation (EPI) in Cameroon
 
-![Cameroon Vaccination Target Map](/images/cameroon_vaccination.png)
+![Cameroon Vaccination Target Map](/images/Cameroon.png)
 
 ---
 
@@ -58,7 +58,7 @@ This project advanced methods for census disaggregation by applying Bayesian mac
 In collaboration with national and international partners, this project developed subnational population estimates for Cameroon using hierarchical Bayesian geostatistical models. The work provided more granular and reliable estimates than official figures alone, strengthening evidence for public health planning and resource allocation.  
 *Output year: 2022*  
 
-![Cameroon Population Estimates Map](/images/cameroon_population.png)
+![Cameroon Population Estimates Map](/images/cam.png)
 
 ---
 
