@@ -56,8 +56,8 @@ I believe learning should be **interactive, collaborative, and applied**. My tea
 
 # ✨ At a Glance  
 
-- 🎓 **7+ years of teaching experience** across three universities  
-- 🌍 Courses spanning **GIS, geography, and spatial statistics**  
+- 🎓 **5+ years of teaching experience** across three universities  
+- 🌍 Courses spanning **GIS, Geography, Advanced Statistics, and Spatial Statistics**  
 - 🧑🏾‍💻 Mentored **hundreds of students** in applying geospatial science to real-world challenges  
 
 ---
