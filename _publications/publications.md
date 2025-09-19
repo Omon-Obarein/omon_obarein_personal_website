@@ -5,17 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+You can also find all my journals on [Google Scholar](https://scholar.google.com/citations?user=fLa56bkAAAAJ&hl=en&oi=ao)
 
 ## Journal Articles
 
 ---
-
-<span style="background-color:#32CD32; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em;">Open Access</span>  
-<span style="background-color:#808080; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em;">Open Source</span>  
-<span style="background-color:#800080; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em;">Preprint</span>  
-
-Pollack, A. B., Santamaria-Aguilar, S., Maduwanta, P., Helgeson, C., Wahl, T., & Keller, K. (2025).  
+*Pollack, A. B.*, Santamaria-Aguilar, S., Maduwanta, P., Helgeson, C., Wahl, T., & Keller, K. (2025).  
 Funding rules that promote equity in climate adaptation outcomes. *Proceedings of the National Academy of Sciences*, 122(2), e2418711121.  
 https://doi.org/10.1073/pnas.2418711121
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://doi.org/10.1073/pnas.2418711121)
