@@ -60,6 +60,7 @@ Demographic, Clinical Profile of Rheumatoid Arthritis Patients and Their Associa
 **Yankey, O.**, Lee, J., Gardenhire, R. & Borawski E. (2023).  
 Neighborhood Racial Segregation Predicts the Spatial Distribution of Supermarkets and Grocery Stores Better than Socioeconomic Factors in Cleveland, Ohio: a Bayesian Spatial Approach. *Journal of Racial and Ethnic Health Disparities*.  
 [https://doi.org/10.1007/s40615-023-01669-4](https://doi.org/10.1007/s40615-023-01669-4)  
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://link.springer.com/article/10.1007/s40615-023-01669-4)
 
 ---
 Botchwey, G., & **Yankey, O.** (2023).  
