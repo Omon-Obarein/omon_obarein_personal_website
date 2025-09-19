@@ -107,7 +107,7 @@ Spatiotemporal Bayesian Regression. In *Spatiotemporal Analytics*. CRC Press, Ta
 
 WorldPop. (2024). *WorldPop Book of Methods, Vol. I: Gridded Population Estimates*. WorldPop, University of Southampton.  
 [https://wpgp.github.io/bookworm/](https://wpgp.github.io/bookworm/)  
-[![Open Access](https://wpgp.github.io/bookworm/)
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://wpgp.github.io/bookworm/)
 
 ---
 
