@@ -56,12 +56,15 @@ Demographic, Clinical Profile of Rheumatoid Arthritis Patients and Their Associa
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2024/6639079)
 
 ---
+
 **Yankey, O.**, Lee, J., Gardenhire, R. & Borawski E. (2023).  
 Neighborhood Racial Segregation Predicts the Spatial Distribution of Supermarkets and Grocery Stores Better than Socioeconomic Factors in Cleveland, Ohio: a Bayesian Spatial Approach. *Journal of Racial and Ethnic Health Disparities*.  
 [https://doi.org/10.1007/s40615-023-01669-4](https://doi.org/10.1007/s40615-023-01669-4)  
 
+---
 Botchwey, G., & **Yankey, O.** (2023).  
-Small-Scale Mining, Environment and Livelihoods: Perspectives from Mining Communities in Ghana. *African Journal of Social Sciences Education*, 2(2).  
+Small-Scale Mining, Environment and Livelihoods: Perspectives from Mining Communities in Ghana. *African Journal of Social Sciences Education*, 2(2). https://journals.uew.edu.gh/index.php/ajsse/article/view/180 
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://journals.uew.edu.gh/index.php/ajsse/article/view/180)
 
 **Yankey, O.**, Amegbor, P. M., & Lee J. (2021).  
 The Effect of Sociodemographic Factors on the Risk of Poor Mental Health in Akron (Ohio): A Bayesian Hierarchical Spatial Analysis. *Spatial and Spatio-temporal Epidemiology*, 100438.  
