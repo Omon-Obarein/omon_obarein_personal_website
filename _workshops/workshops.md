@@ -57,7 +57,7 @@ It fostered peer-learning among multiple countries and promoted the use of **ope
 
 ---
 
-## 🇳🇬 Capacity-Strengthening Workshop on Population Modelling  
+## ♍️ Capacity-Strengthening Workshop on Population Modelling  
 **Host:** Nigeria Population Commission  
 **Date:** February 2023  
 
