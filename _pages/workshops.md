@@ -85,13 +85,13 @@ Each workshop is designed to be **practical, collaborative, and solution-driven*
 
   <!-- Slide 2 -->
   <div class="carousel-slide" style="display:none;">
-    <img src="/images/cameroon.jpg" alt="Cameroon NSO Training" style="width:100%; border-radius:12px;">
+    <img src="/images/Cameroon.jpg" alt="Cameroon NSO Training" style="width:100%; border-radius:12px;">
     <p style="text-align:center; font-style:italic;">Gridded Population Modelling Workshop, Cameroon NSO, April 2024</p>
   </div>
 
   <!-- Slide 3 -->
   <div class="carousel-slide" style="display:none;">
-    <img src="/images/thailand.jpg" alt="Thailand NSO Training" style="width:100%; border-radius:12px;">
+    <img src="/images/Thailand.jpg" alt="Thailand NSO Training" style="width:100%; border-radius:12px;">
     <p style="text-align:center; font-style:italic;">Spatial Population Modelling Training, Thailand NSO, November 2023</p>
   </div>
 
