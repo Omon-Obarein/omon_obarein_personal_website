@@ -5,9 +5,7 @@ permalink: /workshops/
 author_profile: true
 ---
 
-# Workshops & Training
-
-I am deeply committed to **capacity strengthening and knowledge exchange** in geospatial data science, population modelling, and statistical methods.  
+I am deeply committed to **capacity strengthening and knowledge exchange** in geospatial data science, spatial epidemiology, population modelling, and statistical methods.  
 Over the years, I have designed and facilitated workshops for **universities, national statistical offices (NSOs), and international organisations**, empowering participants to apply cutting-edge methods for research, census planning, and policy development.  
 
 Below is a selection of training and workshops I have conducted:
@@ -32,7 +30,7 @@ Participants explored how gridded population estimates can be developed to fill 
 
 ---
 
-## 🇨🇲 Gridded Population Modelling Workshop  
+## 🌏 Gridded Population Modelling Workshop  
 **Host:** Cameroon National Statistical Office (NSO)  
 **Date:** April 2024  
 
@@ -41,7 +39,7 @@ The workshop strengthened collaboration between researchers and government stati
 
 ---
 
-## 🇹🇭 Spatial Population Modelling Training  
+## 🌏 Spatial Population Modelling Training  
 **Host:** Thailand National Statistical Office  
 **Date:** November 2023  
 
