@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# 🎓 Teaching Experience
+## 🎓 Teaching Experience
 
 I am deeply passionate about **teaching and mentoring** the next generation of geographers, data scientists, and spatial analysts.  
 My teaching philosophy blends **practical skill-building**, **critical thinking**, and **real-world applications** of geospatial methods to solve pressing global challenges in health, population, and environment.  
