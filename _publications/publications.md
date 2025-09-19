@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find all my journals on [Google Scholar](https://scholar.google.com/citations?user=fLa56bkAAAAJ&hl=en&oi=ao)
+You can also find all my publications on [Google Scholar](https://scholar.google.com/citations?user=fLa56bkAAAAJ&hl=en&oi=ao)
 
 ## Journal Articles
 
@@ -21,11 +21,16 @@ Geostatistical and machine learning approaches for high-resolution mapping of va
 Dotse-Gborgbortsi, W., Nilsen, K., **Yankey, O.**, Ofosu, A., Ankomah, T., Tweneboah, E., ... & Wright, J. (2025).  
 Spatio-temporal patterns of health service delivery and access to maternal, child, and outpatient healthcare in Volta region, Ghana: a repeated cross-sectional ecological study using health facility data. *Global Health Action*, 18(1), 2513861.https://www.tandfonline.com/doi/pdf/10.1080/16549716.2025.2513861  
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.tandfonline.com/doi/pdf/10.1080/16549716.2025.2513861)
+
 ---
 
 Nnanatu, C. C., Bonnie, A., Joseph, J., **Yankey, O.**, Cihan, D., Gadiaga, A., ... & Tatem, A. J. (2025).  
 Estimating small area population from health intervention campaign surveys and partially observed settlement data. *Nature Communications*, 16(1), 1-13.  
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.nature.com/articles/s41467-025-59862-4)
+[![Open Source](https://img.shields.io/badge/Open%20Source-gray)](https://wopr.worldpop.org/?PNG/)
+[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.researchsquare.com/article/rs-5059066/v1)
 
+---
 **Yankey, O.**, Essah, M., & Amegbor, P. M. (2025).  
 The COVID-19 pandemic and self-reported food insecurity among women in Burkina Faso: evidence from the performance monitoring for action (PMA) COVID-19 survey data. *BMC Women's Health*, 25(1), 42.  
 
