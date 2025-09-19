@@ -71,3 +71,55 @@ The sessions demonstrated how modelled estimates can **bridge census gaps** and 
 Through these workshops, I have trained **hundreds of professionals and students** across Africa, Asia, Latin America, and the Caribbean.  
 Each workshop is designed to be **practical, collaborative, and solution-driven**, ensuring that participants leave with **new skills they can apply directly** in their work.
 
+---
+
+# 🖼️ Workshop Gallery  
+
+<div id="workshop-carousel" class="carousel" style="max-width:700px; margin:auto; position:relative;">
+
+  <!-- Slide 1 -->
+  <div class="carousel-slide">
+    <img src="/images/Jamaica_Workshop.jpg" alt="Training in Jamaica" style="width:100%; border-radius:12px;">
+    <p style="text-align:center; font-style:italic;">Capacity-strengthening workshop at the Statistical Institute of Jamaica, March 2025</p>
+  </div>
+
+  <!-- Slide 2 -->
+  <div class="carousel-slide" style="display:none;">
+    <img src="/images/workshops/cameroon_nso.jpg" alt="Cameroon NSO Training" style="width:100%; border-radius:12px;">
+    <p style="text-align:center; font-style:italic;">Gridded Population Modelling Workshop, Cameroon NSO, April 2024</p>
+  </div>
+
+  <!-- Slide 3 -->
+  <div class="carousel-slide" style="display:none;">
+    <img src="/images/workshops/thailand_nso.jpg" alt="Thailand NSO Training" style="width:100%; border-radius:12px;">
+    <p style="text-align:center; font-style:italic;">Spatial Population Modelling Training, Thailand NSO, November 2023</p>
+  </div>
+
+  <!-- Arrows -->
+  <a class="prev" onclick="plusSlides(-1)" style="position:absolute;top:50%;left:0;transform:translateY(-50%);font-size:2rem;cursor:pointer;">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)" style="position:absolute;top:50%;right:0;transform:translateY(-50%);font-size:2rem;cursor:pointer;">&#10095;</a>
+</div>
+
+<script>
+let slideIndex = 0;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function showSlides(n) {
+  let slides = document.getElementsByClassName("carousel-slide");
+  if (n >= slides.length) { slideIndex = 0; }
+  if (n < 0) { slideIndex = slides.length - 1; }
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slides[slideIndex].style.display = "block";
+}
+</script>
+
+---
+
+
+
