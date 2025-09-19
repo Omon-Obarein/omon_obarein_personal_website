@@ -99,10 +99,12 @@ Examining spatial variability in the association between male partner alcohol mi
 
 **Yankey, O.**, Hu, T., Yue, H., Wang, P., & Xu, X. (2023).  
 Spatiotemporal Bayesian Regression. In *Spatiotemporal Analytics*. CRC Press, Taylor & Francis Group.  
+[![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003304395-10/spatiotemporal-bayesian-regression-ortis-yankey-tao-hu-han-yue-peixiao-wang-xiao-xu)
 
+---
 WorldPop. (2024). *WorldPop Book of Methods, Vol. I: Gridded Population Estimates*. WorldPop, University of Southampton.  
 [https://wpgp.github.io/bookworm/](https://wpgp.github.io/bookworm/)  
-
+[![Open Access](https://wpgp.github.io/bookworm/)
 ---
 
 ## Manuscripts Under Review / Pre-Prints
