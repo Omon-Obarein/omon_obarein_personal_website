@@ -88,11 +88,13 @@ Individual and contextual predictors of overweight or obesity among women in Uga
 Amegbor, P. M., **Yankey, O.**, & Sabel, C. E. (2020).  
 Examining the effect of geographic region of residence on childhood malnutrition in Uganda. *Journal of Tropical Pediatrics*, 66(6), 598-611.  
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://academic.oup.com/tropej/article/66/6/598/5892369)
+
 ---
 
 Amegbor, P. M., **Yankey, O.**, Rosenberg, M. W., & Sabel, C. E. (2020).  
 Examining spatial variability in the association between male partner alcohol misuse and intimate partner violence against women in Ghana: a GWR analysis. *Journal of Interpersonal Violence*, 0886260519900299.  
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://journals.sagepub.com/doi/full/10.1177/0886260519900299)
+
 ---
 
 ## Book Chapters
@@ -102,9 +104,11 @@ Spatiotemporal Bayesian Regression. In *Spatiotemporal Analytics*. CRC Press, Ta
 [![Open Access](https://img.shields.io/badge/Open%20Access-green)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003304395-10/spatiotemporal-bayesian-regression-ortis-yankey-tao-hu-han-yue-peixiao-wang-xiao-xu)
 
 ---
+
 WorldPop. (2024). *WorldPop Book of Methods, Vol. I: Gridded Population Estimates*. WorldPop, University of Southampton.  
 [https://wpgp.github.io/bookworm/](https://wpgp.github.io/bookworm/)  
 [![Open Access](https://wpgp.github.io/bookworm/)
+
 ---
 
 ## Manuscripts Under Review / Pre-Prints
@@ -116,14 +120,16 @@ Efficient Bayesian hierarchical small area population estimation using INLA-SPDE
 ---
 Nnanatu, C. C., **Yankey, O.**, Dzossa, A. D., Abbott, T., Gadiaga, A., Lazar, A. N., & Tatem, A. J. (2025).  
 Census-independent small area estimates of population and number of households in Cameroon. *VeriXiv*, 2(88), 88.  
-[![Preprint](https://verixiv.org/articles/2-88/v1?src=rss)
+[![Preprint](https://img.shields.io/badge/Preprint-purple)](https://verixiv.org/articles/2-88/v1?src=rss)
 
 ---
+
 Gadiaga, A. N., Tine, M. W., Diene, A. N., Linard, C., Speybroeck, N., **Yankey, O.**, ... & Tatem, A. J. (2025).  
 Spatio-temporal modelling of COVID-19 infection and associated risk factors in Dakar, Senegal. *medRxiv*, 2025-07.  
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.medrxiv.org/content/10.1101/2025.07.04.25330897v1)
 
 ---
+
 Lazar, A. N., Boo, G., Chamberlain, H. R., Nnanatu, C. C., Darin, E., **Yankey, O.**, ... & Tatem, A. J. (2025).  
 Advances in Small Area Population Estimation in the Absence of National Census Data.  
 [![Preprint](https://img.shields.io/badge/Preprint-purple)](https://www.preprints.org/frontend/manuscript/b9995c5f089d4b985423dc8e6614256b/download_pub)
